@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate with **interesting people.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kand7dev](https://github.com/kand7dev)
+- 👨‍💻 All of my projects are available at [https://github.com/kand7dev](https://github.com/kand7dev).
 
 - 💬 Ask me about **bash scripting, linux administration and Python.**
 
-- 📫 How to reach me **kand7dev@gmail.com**
+- 📫 How to reach me **kand7dev@gmail.com**.
 
 - ⚡ Fun fact **I love learning new things!**
 
