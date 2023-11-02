@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kand7dev&label=Profile%20views&color=0e75b6&style=flat" alt="kand7dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kand7dev" alt="kand7dev" /></a> </p>
-
 - 🔭 I’m currently working on **a bunch of side projects.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python.**
 
 - 👯 I’m looking to collaborate with **interesting people.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kand7dev](https://github.com/kand7dev)
 
-- 💬 Ask me about **bash scripting, linux administration and Python**
+- 💬 Ask me about **bash scripting, linux administration and Python.**
 
 - 📫 How to reach me **kand7dev@gmail.com**
 
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/viktor romanyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viktor romanyuk" height="30" width="40" /></a>
 <a href="https://instagram.com/vik_rmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vik_rmn" height="30" width="40" /></a>
 </p>
 
