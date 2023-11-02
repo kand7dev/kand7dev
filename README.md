@@ -1,4 +1,4 @@
-<h1 align="center">Hey,🫵 I'm kand7dev</h1>
+<h1 align="center">Hey 🫵 , I'm kand7dev</h1>
 <h3 align="center">A passionate computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kand7dev&label=Profile%20views&color=0e75b6&style=flat" alt="kand7dev" /> </p>
