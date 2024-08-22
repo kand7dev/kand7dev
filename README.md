@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kand7dev&label=Profile%20views&color=0e75b6&style=flat" alt="kand7dev" /> </p>
 
-- 🔭 I’m currently working on **a bunch of side projects.**
+- 🔭 I’m currently working on **different side projects.**
 
-- 🌱 I’m currently learning **Go.**
+- 🌱 I’m currently learning **C#.**
 
 - 👯 I’m looking to collaborate with **interesting people.**
 
